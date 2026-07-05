@@ -1,0 +1,44 @@
+# Cassia Juliato – Cabelo & Estética
+
+> Salão de beleza e estética em Valinhos, SP. Serviços completos de cabelo, maquiagem, manicure, pedicure, sobrancelha, estética facial e corporal, com espaço exclusivo para o Dia da Noiva.
+
+## Páginas do Site
+
+- [Início](https://cassiajuliatocabelos.bolt.host/): Página principal com apresentação do salão, serviços em destaque e depoimentos de clientes.
+- [Serviços](https://cassiajuliatocabelos.bolt.host/servicos): Lista completa de todos os serviços oferecidos, com descrições e opções de agendamento.
+- [Sobre](https://cassiajuliatocabelos.bolt.host/sobre): História do salão, trajetória de Cassia Juliato e diferenciais do atendimento.
+- [Galeria](https://cassiajuliatocabelos.bolt.host/galeria): Fotos de trabalhos realizados em cabelo, maquiagem, manicure e estética.
+- [Blog](https://cassiajuliatocabelos.bolt.host/blog): Artigos com dicas de beleza, tendências, cuidados com o cabelo e rotinas de skincare.
+- [Contato](https://cassiajuliatocabelos.bolt.host/contato): Endereço, telefone, horário de funcionamento e formulário de contato.
+- [Agendamento](https://cassiajuliatocabelos.bolt.host/agendamento): Formulário para agendar horário online diretamente no salão.
+
+## Serviços Oferecidos
+
+### Cabelo
+Corte feminino e masculino, escova progressiva, coloração, luzes, balayage, hidratação profunda, reconstrução e penteados para eventos.
+
+### Maquiagem
+Maquiagem profissional para noivas, casamentos, formaturas, ensaios fotográficos e eventos sociais.
+
+### Manicure e Pedicure
+Esmaltação simples e em gel, francesinha, spa dos pés, nail art e hidratação para mãos e pés.
+
+### Sobrancelha e Cílios
+Design de sobrancelha, sobrancelha com tinta, com henna, microblading e alongamento de cílios.
+
+### Estética Facial
+Limpeza de pele profunda, peeling químico, drenagem facial, radiofrequência e micropigmentação labial.
+
+### Estética Corporal
+Massagem relaxante, massagem modeladora, drenagem linfática, criolipólise e tratamentos anticelulite.
+
+### Dia da Noiva
+Pacote completo exclusivo: cabelo, maquiagem, unhas e estética com atendimento personalizado para noivas.
+
+## Informações do Salão
+
+- **Nome**: Cassia Juliato – Cabelo & Estética
+- **Localização**: Valinhos, São Paulo, Brasil
+- **Contato**: WhatsApp disponível no site
+- **Anos de atuação**: Desde 2016 (8+ anos de experiência)
+- **Especialidade**: Beleza completa com foco em noivas e eventos especiais
